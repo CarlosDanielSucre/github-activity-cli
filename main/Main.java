@@ -8,7 +8,7 @@ public class Main{
         System.out.println("Hello");
         HttpClient client = HttpClient.newHttpClient();
         
-        HttpRequest request = HttpRequest.newBuilder().uri(URI.create("https://api.github.com/users/CarlosDanielSucreeeeeeeeeeeeee/events")).GET().build();
+        HttpRequest request = HttpRequest.newBuilder().uri(URI.create("https://api.github.com/users/CarlosDanielSucre/events")).GET().build();
         try{
             HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());
 
