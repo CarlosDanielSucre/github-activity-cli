@@ -12,7 +12,7 @@ It will help you practice:
 
 ---
 
-## 🧠 Features
+## Features
 
 - Accept a GitHub username as a CLI argument.
 - Fetch the user's recent public activity using the GitHub API.
@@ -22,7 +22,7 @@ It will help you practice:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 From the command line, run the script with a GitHub username:
 
@@ -46,7 +46,7 @@ The CLI will output something like:
 
 ---
 
-## 📡 GitHub API Endpoint
+## GitHub API Endpoint
 
 The application fetches the user’s activity using the following endpoint:
 
@@ -64,7 +64,7 @@ https://api.github.com/users/kamranahmedse/events
 
 ---
 
-## 💥 Error Handling
+## Error Handling
 
 The application must handle cases such as:
 
@@ -74,7 +74,7 @@ The application must handle cases such as:
 
 ---
 
-## 🌱 Advanced Ideas (Optional)
+## Advanced Ideas (Optional)
 
 If you want to take this project further:
 
@@ -85,12 +85,12 @@ If you want to take this project further:
 
 ---
 
-## 🔍 Resources
+## Resources
 
 - GitHub REST API Documentation: [https://docs.github.com/en/rest](https://docs.github.com/en/rest)
 
 ---
 
-## 🛠️ Found a mistake?
+## Found a mistake?
 
 Feel free to contribute or suggest improvements!
